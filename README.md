@@ -6,7 +6,10 @@ Conclusion:
 Chapter 06:
 
 Chapter 05:
-- 
+- Node.js also ships with a module that allows us to interact with the file system. The fs module can be used to list files in directories, create new files in directories, stream files, watch files, modify file permissions, just about anything you would need to work with files and directories.
+
+- creating files and directories, appending content of file based on it's values and variables
+- moving directories and files, fs module etc..
 
 Chapter 04:
 - many handlers and things, emmiters, mainly working with modules, also separating file into modules and then working with it as require()
