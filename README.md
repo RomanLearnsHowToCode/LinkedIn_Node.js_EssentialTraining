@@ -4,6 +4,10 @@ Node.js training provided by LinkedIn
 Conclusion:
 
 Chapter 06:
+- The stream interface provides us with the technique to read and write data. We can use it to read and write data to files, to communicate with the internet, to communicate with other processes. In fact we've already been using it. We've been using the stream interface to read and write data to and from the terminal.
+- Node JS developers are using stream IO constantly
+- writeStream.write(data) - this will write data into chosen file
+- Node, JS comes with a child process module, which allows you to execute external processes in your environment. In other words, you node JS app can run and communicate with other applications within the environment that is hosted. In the next two lessons, we're going to take a look at the two main functions used to create a child process, spawn and execute.
 
 Chapter 05:
 - Node.js also ships with a module that allows us to interact with the file system. The fs module can be used to list files in directories, create new files in directories, stream files, watch files, modify file permissions, just about anything you would need to work with files and directories.
